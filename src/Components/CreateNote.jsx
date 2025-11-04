@@ -22,7 +22,6 @@ const CreateNote = ({inputText, setInputText, saveHandler}) => {
         <button className='note_save' onClick={saveHandler}>save</button>
 
       </div>
-      
     </div>
   )
 }
